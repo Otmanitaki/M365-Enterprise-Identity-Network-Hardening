@@ -62,3 +62,7 @@ A modern hybrid environment required the deployment of a secure Microsoft 365 te
 *   **Networking**: TCP/IP Troubleshooting, DNS Forwarders, nslookup, ipconfig, flushdns.
 *   **Endpoint Support**: Windows 10/11 OS Optimization, Microsoft 365 Apps, Microsoft Intune (MDM).
 *   **Security**: Role-Based Access Control (RBAC), BitLocker Governance, ITIL Incident Response.
+
+---
+
+**Developed by [Taki] | Systems Infrastructure & IT Operations Portfolio**
